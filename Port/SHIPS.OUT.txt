@@ -1,0 +1,33 @@
+Текущее состояние очереди на рейде:
+Очередь пуста!
+Текущее состояние причалов:
+1 Marine
+2 Katysha
+3 Galina
+4 Jane
+5 пусто
+6 пусто
+7 пусто
+Текущее состояние причалов:
+1 Marine
+2 Katysha
+3 Polina
+4 Venus
+5 Tymora
+6 Neeshka
+7 Sune
+Текущее состояние очереди на рейде:
+ Loreley
+ Olga
+ Elizaveta
+Текущее состояние очереди на рейде:
+ Olga
+ Elizaveta
+Текущее состояние причалов:
+1 Liira
+2 Anya
+3 Loreley
+4 Venus
+5 Tymora
+6 Neeshka
+7 Sune
